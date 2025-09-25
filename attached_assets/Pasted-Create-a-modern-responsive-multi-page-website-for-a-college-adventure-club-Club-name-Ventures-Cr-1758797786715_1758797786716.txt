@@ -1,0 +1,45 @@
+Create a modern, responsive multi-page website for a college adventure club:
+
+Club name: Ventures Crew
+Tagline: Dare. Discover. Do.
+
+Tone: energetic, trustworthy, community-first. Target audience: GNDEC students (18–24), faculty, and sponsors.
+
+Required pages & features:
+- Home (hero image, club name + tagline, primary CTA: "Join Our Next Trip")
+- About (mission, vision, founder: Alok Jindal, GNDEC)
+- Trips & Events (upcoming trips with calendar, RSVP/registration button)
+- Blog (CMS-style, list + article pages)
+- Gallery (photo grid, lightbox)
+- Join / Membership (form with Name, Email, Phone, Year, Dept, Emergency contact, Experience level, Consent to waiver)
+- Safety & Gear (mandatory safety info, basic checklist)
+- For Faculty & Sponsors (pitch + benefits)
+- Contact (contact form + email + placeholder phone + campus map)
+- Footer: social links, newsletter signup, quick links, privacy/waiver link.
+
+Design & UI:
+- Hero: full-bleed outdoor image (students trekking or sunset campfire), big headline, CTA.
+- Palette: bold outdoor colors (eg. #0f4c5c deep teal, #ff7a00 orange accent, #f5f7f9 off-white, #222222 charcoal).
+- Fonts: Montserrat (headlines) + Lora (body) or Google equivalents.
+- Mobile-first, accessible (a11y), fast-loading images, lazy-loading.
+
+Content to seed:
+- About copy, 3 blog posts (see below), safety waiver template, 10 gallery image prompts and alt text.
+- SEO: title template "Ventures Crew | GNDEC Adventure Club", meta description, OG image.
+
+Extra features:
+- Integrate newsletter (Mailchimp) and analytics (Google Analytics).
+- Add social share buttons, event RSVP system, downloadable waiver PDF, admin panel to add posts/events.
+- Include "Faculty/Advisor" contact form and button to download a one-page pitch PDF.
+
+Deliverable: a ready-to-go static site (or simple CMS) with editable content sections, sample blog posts, and a downloadable “Club Pitch” one-pager for faculty.
+
+-- Content seed (short):
+Home hero headline: "Ventures Crew — dare.discover.do."
+Subheadline: "GNDEC’s student-run adventure club: treks, camps, river days & smart, safe exploration."
+Primary CTA: "Join Our Next Trip"
+Founder: Alok Jindal — Founder & President, Ventures Crew, Guru Nanak Dev Engineering College (GNDEC)
+Suggested email (replace): venturescrew@gndec.ac.in
+Instagram handle (placeholder): @ventures.crew
+
+Create the site now with editable blocks, and include all copy and images described.
